@@ -88,6 +88,8 @@ box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 <p><center>You are successfully logged in.</center></p>
 <br><br><br>
 
+<a href="newbook.php" title = "Float a book" class="button">Post a New Book</a>
+<br>
 <a href="view.php" title = "View" class="button">View Details</a>
 <br>
 <a href="logout.php" title = "Sign out" class="button">Sign Out</a>
